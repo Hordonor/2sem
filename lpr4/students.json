@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "\u041E\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440",
+    "Age": 19,
+    "AverageScore": 4.8
+  },
+  {
+    "Name": "\u041C\u0430\u0440\u0456\u044F",
+    "Age": 20,
+    "AverageScore": 4.9
+  },
+  {
+    "Name": "\u0414\u043C\u0438\u0442\u0440\u043E",
+    "Age": 21,
+    "AverageScore": 3.9
+  },
+  {
+    "Name": "\u0406\u0440\u0438\u043D\u0430",
+    "Age": 19,
+    "AverageScore": 4.5
+  },
+  {
+    "Name": "\u0410\u0440\u0442\u0435\u043C",
+    "Age": 22,
+    "AverageScore": 4.2
+  }
+]
