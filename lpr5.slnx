@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AsyncDataLibrary/AsyncDataLibrary.csproj" />
+  <Project Path="lpr5/lpr5.csproj" />
+</Solution>
